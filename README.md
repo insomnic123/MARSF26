@@ -10,7 +10,7 @@ This is the Avionics Bay, designed in Blender and tested via various CAD softwar
 The actual avionics consist of a custom PCB to collect flight data, and a 3.7V LiPo 503450 battery.  
 
 ## Rocket Design
-The rocket was generally tested and modelled in OpenRocket.
+The rocket was tested via OpenRocket and modelled in Blender, later converted to a STEP file for CAD inspection via OnShape.
 
 <img width="395" alt="image" src="https://github.com/user-attachments/assets/18d0e542-2330-409c-9a76-afbce9138ce2" />
 <img width="197" height="714" alt="image" src="https://github.com/user-attachments/assets/1c1b9fa8-5f4a-42f4-b25e-981177e0cbe6" />
